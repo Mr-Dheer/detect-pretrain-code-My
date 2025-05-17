@@ -1,5 +1,7 @@
 # :detective: Detecting Pretraining Data from Large Language Models
 
+Jai bhole shamboo
+
 This repository provides an original implementation of [Detecting Pretraining Data from Large Language Models](https://arxiv.org/pdf/2310.16789.pdf) by *Weijia Shi, *Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu
 , Terra Blevins
 , Danqi Chen
